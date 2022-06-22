@@ -1,0 +1,25 @@
+postcss - ferramenta para automatizar o css;
+
+
+
+vite
+tailwindcss/post/autoprefixer
+
+CMS - Content Management System
+Wordpress - traz tanto o painel de ADMIN tanto quando a parte visual do front-end(temas)
+
+headless cms: painel de ADMIN(dados fornecidos através de uma API REST ou graphQL)
+
+React que consome essa API do CMS
+
+graphQL
+query/mutation
+query = buscar dados
+mutation = criar,alterar ou deletar dados
+
+components = serve para acloprar outros compoments ou quando aquele compomentes se repete muito.
+
+no tailwindcss se eu não tenho um valor criado entre as opçãos que ele oferece,eu posso colocar w-[e o valor q eu quero]
+
+
+phosphor lib para usar icones no react
