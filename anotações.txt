@@ -23,3 +23,4 @@ no tailwindcss se eu não tenho um valor criado entre as opçãos que ele oferec
 
 
 phosphor lib para usar icones no react
+   
